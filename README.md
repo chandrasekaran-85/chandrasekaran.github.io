@@ -19,11 +19,10 @@ Welcome to my technical space. I design and build scalable, resilient systems us
 
 Here are some of my technical write-ups:
 
-- [Data Management in Microservices: Database per Service](https://www.linkedin.com/...)
-- [Resilience in Microservices: Retry, Timeout, Circuit Breakers](https://www.linkedin.com/...)
-- [Asynchronous Messaging with Kafka and Java](https://www.linkedin.com/...)
-- [Smart Caching in High-Performance Node.js Microservices](https://www.linkedin.com/...)
-
+- [Data Management in Microservices: Database per Service](https://www.linkedin.com/pulse/data-management-microservices-database-per-service-karunakaran-nsnvc/?lipi=urn%3Ali%3Apage%3Ad_flagship3_publishing_published%3BVNSVMlbDRJ%2BjL%2BcU%2F5ccaA%3D%3D)
+- [Building High-Performance Microservices with Smart Caching Strategies](https://www.linkedin.com/pulse/building-high-performance-microservices-smart-caching-karunakaran-ujapc/?lipi=urn%3Ali%3Apage%3Ad_flagship3_publishing_published%3BVNSVMlbDRJ%2BjL%2BcU%2F5ccaA%3D%3D)
+- [Best Practices for RESTful API Naming: A Complete Guide for Scalable APIs]([https://www.linkedin.com/pulse/building-high-performance-microservices-smart-caching-karunakaran-ujapc/?lipi=urn%3Ali%3Apage%3Ad_flagship3_publishing_published%3BVNSVMlbDRJ%2BjL%2BcU%2F5ccaA%3D%3D](https://www.linkedin.com/pulse/best-practices-restful-api-naming-complete-guide-apis-karunakaran-4vloc/?lipi=urn%3Ali%3Apage%3Ad_flagship3_publishing_published%3BVNSVMlbDRJ%2BjL%2BcU%2F5ccaA%3D%3D))
+- [Event-Driven Microservices Architecture](https://www.linkedin.com/pulse/event-driven-microservices-architecture-chandrasekaran-karunakaran-umzfc/?lipi=urn%3Ali%3Apage%3Ad_flagship3_publishing_published%3BVNSVMlbDRJ%2BjL%2BcU%2F5ccaA%3D%3D)
 ---
 
 ## 💻 Technologies I Work With
@@ -38,6 +37,6 @@ Here are some of my technical write-ups:
 
 ## 🔗 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 💻 [GitHub](https://github.com/yourusername)
-- ✉️ Email: yourname@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/chandrasekarankarunakaran/)
+- 💻 [GitHub](https://github.com/chandrasekaran-85)
+- ✉️ Email: chandrasekaran85@gmail.com
