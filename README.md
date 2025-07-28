@@ -1,5 +1,3 @@
-# chandrasekaran.github.io
-
 # 👋 Hello, I'm Chandrasekaran
 
 ### 💼 Java & Node.js Technical Architect | Microservices | System Design
